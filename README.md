@@ -23,11 +23,11 @@
 
 | Документ | Ссылка |
 |----------|--------|
-| **Чек-лист** | [![Google Sheets](https://img.shields.io/badge/Чек--лист-34A853?style=for-the-badge&logo=google-sheets)](https://docs.google.com/spreadsheets/d/10PHXb6033DW7JuQWY0lwKPlEuRPcZvA3ec_ixk8ccso/edit?gid=943703744#gid=943703744) |
-| **КЭ и ГЗ: данные валидации** | [![Google Sheets](https://img.shields.io/badge/Чек--лист-34A853?style=for-the-badge&logo=google-sheets)](https://docs.google.com/spreadsheets/d/10PHXb6033DW7JuQWY0lwKPlEuRPcZvA3ec_ixk8ccso/edit?gid=1540465171#gid=1540465171) |
-| **Баги вне тестовой документации** | [![Google Sheets](https://img.shields.io/badge/Чек--лист-34A853?style=for-the-badge&logo=google-sheets)](https://docs.google.com/spreadsheets/d/10PHXb6033DW7JuQWY0lwKPlEuRPcZvA3ec_ixk8ccso/edit?gid=1539613303#gid=1539613303) |
-| **Тест-кейсы для мобильного приложения** | [![Google Sheets](https://img.shields.io/badge/Чек--лист-34A853?style=for-the-badge&logo=google-sheets)](https://docs.google.com/spreadsheets/d/10PHXb6033DW7JuQWY0lwKPlEuRPcZvA3ec_ixk8ccso/edit?gid=424948590#gid=424948590) |
-| **Баг-репорты** | [![Google Sheets](https://img.shields.io/badge/Баг--репорты-FF6C37?style=for-the-badge&logo=google-sheets)](https://docs.google.com/spreadsheets/d/10PHXb6033DW7JuQWY0lwKPlEuRPcZvA3ec_ixk8ccso/edit?gid=791488173#gid=791488173) |
+| **Чек-лист** | [![Google Sheets](https://img.shields.io/badge/Чек--лист-4285F4?style=for-the-badge&logo=google-sheets&logoColor=white)](https://docs.google.com/spreadsheets/d/10PHXb6033DW7JuQWY0lwKPlEuRPcZvA3ec_ixk8ccso/edit?gid=943703744#gid=943703744) |
+| **КЭ и ГЗ: данные валидации** | [![Google Sheets](https://img.shields.io/badge/КЭ_и_ГЗ-9C27B0?style=for-the-badge&logo=google-sheets&logoColor=white)](https://docs.google.com/spreadsheets/d/10PHXb6033DW7JuQWY0lwKPlEuRPcZvA3ec_ixk8ccso/edit?gid=1540465171#gid=1540465171) |
+| **Баги вне тестовой документации** | [![Google Sheets](https://img.shields.io/badge/Баги_вне_документации-FF5722?style=for-the-badge&logo=google-sheets&logoColor=white)](https://docs.google.com/spreadsheets/d/10PHXb6033DW7JuQWY0lwKPlEuRPcZvA3ec_ixk8ccso/edit?gid=1539613303#gid=1539613303) |
+| **Тест-кейсы для мобильного приложения** | [![Google Sheets](https://img.shields.io/badge/Тест--кейсы-00ACC1?style=for-the-badge&logo=google-sheets&logoColor=white)](https://docs.google.com/spreadsheets/d/10PHXb6033DW7JuQWY0lwKPlEuRPcZvA3ec_ixk8ccso/edit?gid=424948590#gid=424948590) |
+| **Баг-репорты** | [![Google Sheets](https://img.shields.io/badge/Баг--репорты-E91E63?style=for-the-badge&logo=google-sheets&logoColor=white)](https://docs.google.com/spreadsheets/d/10PHXb6033DW7JuQWY0lwKPlEuRPcZvA3ec_ixk8ccso/edit?gid=791488173#gid=791488173) |
 
 # Результаты:
 
